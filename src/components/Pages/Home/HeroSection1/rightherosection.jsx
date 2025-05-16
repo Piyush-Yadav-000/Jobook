@@ -10,7 +10,7 @@ const rightherosection = () => {
           {/* Human 1 Image */}
           <div className="absolute left-4 sm:left-16 lg:left-20 -top-8 sm:-top-10 lg:-top-12 hover:scale-95 transition-all">
             <img
-              src="src\images\Human1.jpg"
+              src="src/images/Human1.jpg"
               className="h-16 sm:h-20 lg:h-28 w-16 sm:w-20 lg:w-28 rounded-full scale-125 shadow-2xl shadow-gray-500"
               alt="Cartoon-style human figure"
             />
@@ -38,7 +38,7 @@ const rightherosection = () => {
           {/* Human 2 Image */}
           <div className="absolute right-4 sm:right-12 lg:right-16 top-7/10 hover:scale-95 transition-all">
             <img
-              src="src\images\Human2.jpg"
+              src="src/images/Human2.jpg"
               className="h-16 sm:h-20 lg:h-28 w-16 sm:w-20 lg:w-28 rounded-full scale-125"
               alt="Cartoon-style human figure"
             />
@@ -66,7 +66,7 @@ const rightherosection = () => {
           {/* Location Image */}
           <img
             className="absolute -right-2 sm:-right-1 lg:-right-2 -top-8 sm:-top-5 lg:-top-10 hover:scale-95 transition-all w-16 sm:w-20 lg:w-24"
-            src="src\images\location img.png"
+            src="src/images/location img.png"
             alt="Location indicator"
           />
         </div>
