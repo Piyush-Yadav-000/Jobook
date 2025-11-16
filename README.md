@@ -72,7 +72,7 @@ MY job Portal/
 │   └── App.jsx
 ├── public/
 └── README.md
-```
+''
 
 ## 🤝 Contributing
 
